@@ -1,0 +1,86 @@
+{
+  "client_name": "Arkemys Client",
+  "version_attributes": "{LIBRARIES_ROOT_URL}/versions/1.8.9.json",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "pre_release": "prerelease",
+    "mc_version": "1.8.9",
+    "mc_version_major": "1.8",
+    "jre_version": "8"
+  },
+  "built_at": 1638584866193,
+  "released_at": 1638584866193,
+  "version_data": {
+    "libraries": [
+      {
+      {
+        "downloads": {
+          "artifact": {
+            "path": "org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar",
+            "sha1": "0215451c98dd2673d3dd4257ec01d590ac4359e9",
+            "size": 301775,
+            "url": "{LIBRARIES_ROOT_URL}/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar"
+          }
+        },
+        "name": "org.apache.logging.log4j:log4j-api:2.17.0"
+      },
+      {
+        "downloads": {
+          "artifact": {
+            "path": "org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar",
+            "sha1": "2cc97f5b3328f5934224e3090e2b80dcfe3575b4",
+            "size": 1789339,
+            "url": "{LIBRARIES_ROOT_URL}/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar"
+          }
+        },
+        "name": "org.apache.logging.log4j:log4j-core:2.17.0"
+      },
+      {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-all/4.0.36.Final/netty-all-4.0.36.Final.jar",
+                "sha1": "ad89ee6584a9ea41152fae012e18e7fa818eab73",
+                "size": 2195921,
+                "url": "{LIBRARIES_ROOT_URL}/io/netty/netty-all/4.0.36.Final/netty-all-4.0.36.Final.jar"
+            }
+        },
+        "name": "io.netty:netty-all:4.0.36.Final"
+      },
+      {
+        "name": "optifine:OptiFine:1.8.9_HD_U_M6_pre2",
+        "downloads": {
+          "artifact": {
+            "path": "optifine/1.8.9_HD_U_M6_pre2/OptiFine-1.8.9_HD_U_M6_pre2.jar",
+            "sha1": "0079bef764fe03ed976a261de49f327239f2c2fe",
+            "size": 2366273,
+            "url": "{LIBRARIES_ROOT_URL}/optifine/OptiFine/1.8.9_HD_U_M6_pre2/OptiFine-1.8.9_HD_U_M6_pre2.jar"
+          }
+        }
+      },
+      {
+        "name": "optifine:launchwrapper-of:2.2",
+        "downloads": {
+          "artifact": {
+            "path": "optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar",
+            "sha1": "48d08d4b6d7b74b8c304c0a5bdb244a081c54175",
+            "size": 15900,
+            "url": "{LIBRARIES_ROOT_URL}/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar"
+          }
+        }
+      },
+      {
+        "name": "arkemysclient:ArkemysClient:2.0.0",
+        "downloads": {
+          "artifact": {
+            "path": "arkemysclient/ArkemysClient/2.0.0/ArkemysClient-2.0.0.jar",
+            "sha1": "22fb48a369f6c5d30e858259957a8da7600566e9",
+            "size": 13288868,
+            "url": "{LIBRARIES_ROOT_URL}/arkemysclient/ArkemysClient/2.0.0/ArkemysClient-2.0.0.jar"
+          }
+        }
+      }
+    ]
+  }
+}
