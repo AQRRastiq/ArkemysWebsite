@@ -1,6 +1,6 @@
 {
   "client_name": "Arkemys Client",
-  "version_attributes": "{LIBRARIES_ROOT_URL}/versions/1.8.9.json",
+  "version_attributes": "{LIBRARIES_ROOT_URL}/versions/arkemys_1_8.json",
   "version": {
     "major": 1,
     "minor": 0,
