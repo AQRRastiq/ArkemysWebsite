@@ -74,8 +74,8 @@
           "downloads": {
             "artifact": {
               "path": "arkemysclient/ArkemysClient/2.0.0/ArkemysClient-2.0.0.jar",
-              "sha1": "0b3def87b8ee4f41d02a7c82bfed7e6ead067047",
-              "size": 13289120,
+              "sha1": "6359194cc563fbdbc8431e512358fa4fcd65716e",
+              "size": 12707435,
               "url": "{LIBRARIES_ROOT_URL}/arkemysclient/ArkemysClient/2.0.0/ArkemysClient-2.0.0.jar"
             }
           }
