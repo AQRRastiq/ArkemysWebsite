@@ -708,7 +708,7 @@ footer.site-footer {
     font-weight: 800;
     text-transform: uppercase;
     /* Warning: no fallback */
-    background: -webkit-linear-gradient(-86deg, #EA4433 5%, #E8125B 91%);
+    background: -webkit-linear-gradient(-86deg, #EA4433 5%, #e8a412 91%);
     -webkit-background-clip: text;
     -webkit-text-stroke: 12px transparent;
     color: #000;
