@@ -18,24 +18,6 @@ a:hover {
     filter: drop-shadow(2px 4px 6px crimson);
 }
 
-/*HEADER*/
-#Header {
-    background: url(https://cdn.discordapp.com/attachments/840245973712371783/885067439040253982/CrystalBG.png);
-    padding: 50px 0px;
-    background-size: cover;
-    background-position: center;
-}
-
-.headcontainer {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    grid-gap: 75px;
-}
-
-
-
-
 .SocialLinks {
     display: flex;
     align-items: center;
