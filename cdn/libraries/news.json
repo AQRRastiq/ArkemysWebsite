@@ -1,6 +1,14 @@
 {
     "news": [
       {
+        "title": "Patch Notes n°3",
+        "content": "Voici les nouvelles patch notes.",
+        "image": "https://arkemys.tk/cdn/libraries/images/news/patch-3.png",
+        "uuid": "fa15b81b-4de1-44be-9ee0-7caa64b59e63",
+        "ign": "RASTIQ",
+        "url": "https://arkemys.tk/patch-3"
+      },
+      {
         "title": "Patch Notes n°2",
         "content": "Voici les nouvelles patch notes.",
         "image": "https://arkemys.tk/cdn/libraries/images/news/patch-2.png",
